@@ -1,6 +1,6 @@
 # hexoceantask
-Estimated time spent: 10 hours
-recruitment task from Hexocean
+- recruitment task from Hexocean
+- Estimated time spent: 10 hours
 # Django Project README
 
 This is a Django project for image uploading API.
