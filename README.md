@@ -1,4 +1,5 @@
 # hexoceantask
+Estimated time spent: 10 hours
 recruitment task from Hexocean
 # Django Project README
 
@@ -15,12 +16,12 @@ Before you can run this project, make sure you have the following installed:
 
 #how to run the project:
 follow these steps
-git clone https://github.com/lukasba2/hexoceantask
-cd hexocean_project
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-python manage.py makemigrations
-python manage.py migrate
-python manage.py createsuperuser
-python manage.py runserver
+- git clone https://github.com/lukasba2/hexoceantask
+- cd hexocean_project
+- python -m venv venv
+- venv\Scripts\activate
+- pip install -r requirements.txt
+- python manage.py makemigrations
+- python manage.py migrate
+- python manage.py createsuperuser
+- python manage.py runserver
